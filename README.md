@@ -7,8 +7,8 @@ This repository contains **Exercise 2** for visualizing genomic and RNA binding 
 - `data/` – Contains CSV files:
   - `10_project_data_scatter.csv`: Data for the scatter plot.
   - `10_project_data_barplot.csv`: Data for the bar plot.
-  - `10_project_data_annotations.csv`: Gene/transcript annotations (reuse from Exercise 1).
-  - `10_project_data_signals.csv`: RNA binding protein signals (reuse from Exercise 1).
+  - `10_project_data_annotations.csv`: Gene/transcript annotations.
+  - `10_project_data_signals.csv`: RNA binding protein signals.
 
 - `notebooks/` – Jupyter notebook:
   - `Visualization_Exercise_2.ipynb`: Complete multi-panel figure creation with explanations and code.
