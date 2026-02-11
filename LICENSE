@@ -1,0 +1,10 @@
+---
+
+✅ This setup gives you a **professional, GitHub-ready structure**:
+
+- Data is organized in `data/`.  
+- Notebook is cleanly separated in `notebooks/`.  
+- Scripts allow running panels or the full figure independently.  
+- README explains the exercise, usage, and discussion.  
+
+---
