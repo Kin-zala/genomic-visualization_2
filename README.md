@@ -1,5 +1,7 @@
 # Genomic Visualization Exercise 2
 
+# Genomic Visualization Exercise 2
+
 This repository contains **Exercise 2** for visualizing genomic and RNA binding protein data with **multi-panel figures**. This exercise builds upon Exercise 1 by adding scatter and bar plots to the top of the figure, while keeping RNA binding protein heatmaps and annotations at the bottom.
 
 ## Repository Structure
@@ -31,7 +33,7 @@ This repository contains **Exercise 2** for visualizing genomic and RNA binding 
 
 1. **Scatter Plot**: Visualizes relationships between two variables from `10_project_data_scatter.csv`.  
 2. **Bar Plot**: Compares multiple conditions using `10_project_data_barplot.csv`.  
-3. **Heatmap + Annotations**: Reuse of Exercise 1’s RNA binding protein heatmap and genomic annotations panels.  
+3. **Heatmap + Annotations**: Reuse of Exercise 1's RNA binding protein heatmap and genomic annotations panels.  
 
 The figure is arranged in a **multi-panel layout** using Matplotlib gridspec, combining scatter, bar, heatmap, and annotations in a single figure.
 
@@ -46,3 +48,7 @@ The figure is arranged in a **multi-panel layout** using Matplotlib gridspec, co
 ```bash
 git clone https://github.com/Kin-zala/genomic-visualization_2.git
 ```
+
+## output
+
+![Multi-panel genomic visualization displaying scatter plot and bar plot in upper panels with RNA binding protein heatmap and gene annotations in lower panels](https://github.com/Kin-zala/genomic-visualization_2/blob/913decdf4e67c64a4e94a45e51530b5268e52989/Images/full_figure_example.png)
