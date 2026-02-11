@@ -44,5 +44,5 @@ The figure is arranged in a **multi-panel layout** using Matplotlib gridspec, co
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/genomic-visualization-exercise-2.git
+git clone https://github.com/Kin-zala/genomic-visualization_2.git
 ```
