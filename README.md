@@ -46,6 +46,9 @@ The figure is arranged in a **multi-panel layout** using Matplotlib gridspec, co
 ```bash
 git clone https://github.com/Kin-zala/genomic-visualization_2.git
 ```
+2. Open the Jupyter notebook in notebooks/ and run the cells.
+
+3. Alternatively, run the Python scripts in scripts/ to generate individual panels or the full figure.
 
 ## output
 
