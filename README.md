@@ -1,6 +1,6 @@
 # Genomic Visualization Exercise 2
 
-This repository contains **Exercise 2** for visualizing genomic and RNA binding protein data with **multi-panel figures**. This exercise builds upon Exercise 1 by adding scatter and bar plots to the top of the figure, while keeping RNA binding protein heatmaps and annotations at the bottom.
+This repository contains **Exercise 2** (from 'genomic-visualization-rna-binding-protein' repository) for visualizing genomic and RNA binding protein data with **multi-panel figures**. This exercise builds upon Exercise 1 by adding scatter and bar plots to the top of the figure, while keeping RNA binding protein heatmaps and annotations at the bottom.
 
 ## Repository Structure
 
